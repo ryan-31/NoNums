@@ -11,7 +11,9 @@ public class NoNums
         String str = "*";
         String ctr = "a"; 
         
-        for (int a = ctr.length(); a <=10; a++){
+        String ten = "abcdefghik"
+            
+        for (int a = ctr.length(); a <=ten.length(); a++){
             System.out.println(str.length()); 
             str+="*"; 
         }
